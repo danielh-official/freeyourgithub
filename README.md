@@ -1,3 +1,17 @@
+# Free Your GitHub
+
+> [!WARNING]
+> This is still a work in progress.
+
+An experimental project with the goal of using GitHub's API to sync pertinent organizational data (e.g., issues, pull requests) into one's database of choice (e.g., SQLite, MySQL, PostgreSQL).
+
+From this, a user can then use a database GUI (e.g, TablePlus) or make their own app to interact with GitHub data.
+
+One use case for this would be to consolidate GitHub issues into a project management application with more features than what GitHub currently provides.
+
+Also exploring writing back to GitHub (e.g., updating an issue via the API).
+
+<details><summary>This project uses Laravel Zero (click to learn more)</summary>
 <p align="center">
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" alt="Laravel Zero Logo" />
 </p>
@@ -39,3 +53,4 @@ For full documentation, visit [laravel-zero.com](https://laravel-zero.com/).
 ## License
 
 Laravel Zero is an open-source software licensed under the MIT license.
+</details>
